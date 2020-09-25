@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'P1T8 bood pressure ferney camilo talero'
+4
+1
+29
+'ingrese la presion sistolica
+5
+1
+9
+sistolica
+7
+0
+1
+12
+sistolica<=0
+7
+0
+1
+19
+si sistolica < =120
+7
+0
+1
+42
+cuando sistolica > 121 y sitolica sea <140
+7
+0
+1
+18
+si es >=140 y <160
+4
+1
+25
+'corra hacia el hospital'
+13
+4
+1
+29
+'usted sufre de hipertencion'
+13
+13
+4
+1
+21
+' tu eres hipertenso'
+13
+13
+4
+1
+24
+'usted esta bien y sano'
+13
+13
+4
+1
+17
+'tu estas muerto'
+13
+1

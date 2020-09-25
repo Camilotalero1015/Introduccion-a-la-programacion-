@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'P1T17 salary of  an employee'
+4
+1
+30
+'Ingrese el valor del salario'
+5
+1
+6
+sueldo
+4
+1
+38
+' ingrese el valor del numero de dias'
+5
+1
+4
+dias
+7
+0
+1
+18
+dias<1 or dias >30
+6
+1
+8
+salario 
+18
+(sueldo/30)*(dias)
+4
+1
+42
+' el salairo que usted resiva es',salario 
+13
+4
+1
+7
+'error'
+13
+1

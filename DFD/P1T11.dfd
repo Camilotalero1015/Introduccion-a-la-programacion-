@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'P1T11hypotenuse - ingrese el valor de los catetos - Ferney Camilo Talero Bello'
+5
+1
+3
+a,b
+6
+1
+11
+hipotenusa 
+13
+((a*a)+(b*b))
+4
+1
+33
+'resultado hipotenusa',hipotenusa
+1

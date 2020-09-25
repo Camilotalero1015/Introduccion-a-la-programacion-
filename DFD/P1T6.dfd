@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+"P1T6:compare birth of two person marker Ferney Camilo Talero"
+4
+1
+39
+"enter the year of birth of the person"
+5
+1
+5
+yearA
+4
+1
+37
+"enter the year of the second person"
+5
+1
+5
+yearB
+7
+0
+1
+13
+yearA = yearB
+7
+0
+1
+13
+yearA > yearB
+4
+1
+61
+'the person B (',yearB,') is heither the person A(',yearA,')'
+13
+4
+1
+61
+'the person A(',yearA,') is heither the person B (',yearB,')'
+13
+13
+4
+1
+54
+' the two people are the same age', yerarA ,'=', yearB
+13
+1

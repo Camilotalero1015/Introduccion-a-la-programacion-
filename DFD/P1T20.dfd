@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+'P1T20 :grade point average - ferney camilo talero - enter total study'
+5
+1
+6
+totest
+6
+1
+6
+grades
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+6
+totest
+1
+1
+1
+4
+1
+45
+'imput grade 1, grade 2 and grade 3 by study'
+5
+1
+8
+N1,N2,N3
+6
+2
+4
+GEST
+24
+(N1*02)+(N2*03) +(N3*05)
+5
+grade
+13
+grades + GEST
+10
+6
+1
+7
+average
+13
+grades/totest
+4
+1
+22
+'the average by notes'
+1

@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+P1T15 largest of three numbers - Ferney Camilo Talero Bello'
+4
+1
+19
+'Enter the numbers'
+5
+1
+8
+N1,N2,N3
+7
+0
+1
+13
+N1+N2 and =N3
+7
+0
+1
+5
+N1>N2
+7
+0
+1
+5
+N2>N3
+4
+1
+15
+El numero es N1
+13
+4
+1
+15
+el numero es N3
+13
+13
+7
+0
+1
+5
+N1>N3
+4
+1
+19
+'the largeet is N3'
+13
+4
+1
+21
+'el numero si existe'
+13
+13
+13
+4
+1
+20
+'the number is same'
+13
+1

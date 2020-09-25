@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'prueba para corona virus - by ferney camilo talero bello - introdusca el numero de persoanas'
+5
+1
+1
+N
+6
+2
+6
+COVIDN
+1
+0
+6
+COVIDP
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+24
+'que sintomas presentas'
+4
+1
+34
+'tienes tos seca y dolor corporal'
+5
+1
+3
+T,D
+4
+1
+71
+' fiebre y dificultad para respirar y una fiebre mayor a los 38 grados'
+5
+1
+3
+F,R
+4
+1
+22
+' cuantos años tienes'
+5
+1
+1
+E
+7
+0
+1
+21
+T=1 AND F>38 AND D=1 
+4
+1
+19
+'No tiene sintomas'
+13
+7
+0
+1
+13
+ E>60 AND D=1
+6
+1
+6
+COVIDN
+8
+COVIDN+1
+13
+6
+1
+6
+COVIDP
+8
+COVIDP+1
+13
+13
+10
+4
+1
+92
+'total de encuestados',N,'total de infectados',COVIDP,'total pacientes asintomaticos',COVIDN
+1

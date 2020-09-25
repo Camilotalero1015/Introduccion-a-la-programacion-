@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'P1T7 punto de pago creado por Ferney Camilo Talero'
+4
+1
+32
+'ingrese el valor del producto1'
+5
+1
+9
+producto1
+4
+1
+33
+'ingrese el valor del producto 2'
+5
+1
+9
+producto2
+4
+1
+33
+'ingrese el valor del producto 3'
+5
+1
+9
+producto3
+4
+1
+33
+'ingrese el valor del 4 producto'
+5
+1
+9
+producto4
+6
+3
+4
+suma
+39
+producto1+producto2+producto3+producto4
+3
+iva
+9
+suma*0.19
+5
+total
+8
+suma+iva
+4
+1
+72
+'total suma de productos:$',suma,',iva19%$:',iva,'total factura:$',total
+4
+1
+15
+'total iva',iva
+4
+1
+22
+'total a pagar', total
+1

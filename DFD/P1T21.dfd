@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'P1T21 programa'
+5
+1
+1
+N
+6
+3
+5
+bruto
+1
+0
+3
+iva
+1
+0
+5
+total
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+36
+'imput the evalue for the product',i
+5
+1
+5
+value
+6
+1
+11
+total bruto
+12
+bruto+evalue
+10
+6
+2
+3
+iva
+16
+total bruto*0.19
+5
+total
+15
+total bruto+iva
+4
+1
+68
+'el valor de su factura es:', total bruto,'ivan',ivan,'total:',total
+1

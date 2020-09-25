@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+74
+'P1P10 semester grades ferney camilo talero ingrese las notas N1 N2 N3 N4'
+5
+1
+11
+N1,N2,N2,N4
+6
+1
+5
+Total
+37
+(N1*0.2)+(N2*0.25)+(N3*0.25)+(N4*0.3)
+4
+1
+33
+'nota final del estudiante',Total
+1

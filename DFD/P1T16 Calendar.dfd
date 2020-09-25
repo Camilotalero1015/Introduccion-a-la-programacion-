@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+'P1T16 Calendar - name:ferney camilo talero - imput the month number'
+5
+1
+6
+month 
+7
+0
+1
+19
+month<1 or month>12
+7
+0
+1
+7
+month=2
+7
+0
+1
+46
+month=4 or month = 6  or month =9 or month =11
+7
+0
+1
+32
+'this month has thirty one days'
+13
+13
+13
+4
+1
+29
+'this month have thisty days'
+13
+13
+4
+1
+29
+'this month has twenty eight'
+13
+13
+4
+1
+34
+'error: this month does not exist'
+13
+1

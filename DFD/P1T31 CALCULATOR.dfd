@@ -1,0 +1,166 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+166
+'P1T31 calculator - ferney camilo talero - input option 
+1- add two number
+2- subtracc two number 
+3 - multiple two number   
+4 - dividir two number
+5 - NO EXIT'
+5
+1
+
+5
+1
+3
+OPT
+9
+1
+6
+OPT!=0
+7
+0
+1
+5
+OPT=1
+7
+0
+1
+5
+OPT=2
+7
+0
+1
+5
+OPT=3
+7
+0
+1
+5
+OPT=4
+7
+0
+1
+8
+OPTION=0
+13
+4
+1
+4
+EXIT
+13
+13
+4
+1
+36
+'division inpunt number 1, number 2'
+5
+1
+5
+N1,N2
+7
+0
+1
+4
+N1=0
+6
+1
+8
+DIVISION
+5
+N1/N2
+13
+4
+1
+7
+'ERROR'
+13
+4
+1
+27
+'the division is:',DIVISION
+13
+13
+4
+1
+43
+' multiplication inpunt number 1, number 2'
+5
+1
+5
+N1,N2
+6
+1
+15
+MULTIPLICATION 
+5
+N1*N2
+4
+1
+35
+'multiplication is:',MULTIPLICATION
+13
+13
+4
+1
+33
+'resta inpunt number 1, number 2'
+5
+1
+5
+N1,N2
+6
+1
+5
+RESTA
+5
+N1-N2
+4
+1
+21
+'the resta is:',RESTA
+13
+13
+4
+1
+37
+'sumatory  inpunt number 1, number 2'
+5
+1
+5
+N1,N2
+6
+1
+3
+SUM
+5
+N1+N2
+4
+1
+17
+'the sum is:',SUM
+13
+4
+1
+143
+'P1T31 calculator - input option 
+1- add two number
+2- subtracc two number 
+3 - multiple two number   
+4 - dividir two number
+5 - NO EXIT'
+5
+1
+
+5
+1
+3
+OPT
+11
+3

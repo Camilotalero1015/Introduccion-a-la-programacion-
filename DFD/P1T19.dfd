@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'P1T19  B2 total sum for N numbers - ferneycamilo talero - ingrese le total de numero '
+5
+1
+1
+N
+6
+1
+3
+sum
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+24
+'input value the number'
+5
+1
+5
+value
+6
+1
+3
+sum
+10
+sum+ value
+10
+6
+1
+7
+average
+5
+sum/N
+4
+1
+45
+'the sumatory',sum, 'and average is', average
+1

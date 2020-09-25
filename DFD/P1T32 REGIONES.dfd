@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'P1T32 regiones de colombia - Ferney Camilo Talero Bello - Escoja un numero para escojer la region' 
+5
+1
+2
+RE
+9
+1
+13
+RE>0 and RE<7
+7
+0
+1
+4
+RE=1
+7
+0
+1
+5
+RE=2 
+7
+0
+1
+4
+RE=3
+7
+0
+1
+4
+RE=4
+7
+0
+1
+4
+RE=5
+7
+0
+1
+4
+RE=6
+13
+4
+1
+16
+'region insular'
+13
+13
+4
+1
+19
+'region del caribe'
+13
+13
+4
+1
+21
+'region del pasifico'
+13
+13
+4
+1
+17
+' region andiana'
+13
+13
+4
+1
+21
+'Region es orinoquia'
+13
+13
+4
+1
+27
+' la region es la amazonia'
+13
+11
+1
